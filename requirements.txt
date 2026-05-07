@@ -1,0 +1,12 @@
+torch
+torchvision
+opencv-python
+fastapi
+uvicorn
+streamlit
+facenet-pytorch
+openai
+numpy
+Pillow
+requests
+python-multipart
