@@ -138,9 +138,6 @@ streamlit run frontend/app.py
 
 ---
 
-## 💼 Resume Bullet
-
-> Built an explainable deepfake detection system using CNN-based computer vision models, Grad-CAM visualizations, and LLM-generated forensic explanations for manipulated media analysis.
 
 ---
 
